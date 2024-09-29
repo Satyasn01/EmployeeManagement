@@ -35,11 +35,11 @@ A step-by-step series of examples that tell you how to get a development environ
 
 1. Clone the repository:
    ```bash
-   https://github.com/Satyasn01/EmployeeManagement.git
+   git clone https://github.com/Satyasn01/EmployeeManagement.git
       ```
 3. Navigate to the project directory:
    ```bash
-   cd employee-management-system
+   cd EmployeeManagement
    ```
 4. Restore dependencies:
    ```bash
@@ -57,8 +57,8 @@ A step-by-step series of examples that tell you how to get a development environ
 Add additional notes about how to deploy this on a live system using Docker:
 
 ```bash
-docker build -t employee-management-system .
-docker run -d -p 8080:80 employee-management-system
+docker build -t EmployeeManagement .
+docker run -d -p 8080:80 EmployeeManagement
 ```
 
 ## Contributing
