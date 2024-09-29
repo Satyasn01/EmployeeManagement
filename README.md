@@ -65,10 +65,6 @@ docker run -d -p 8080:80 employee-management-system
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Authors
-
-- **Your Name** - *Initial work* - [Satyasn01](https://github.com/Satyasn01))
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.txt) file for details.
