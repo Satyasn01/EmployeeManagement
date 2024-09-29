@@ -35,19 +35,19 @@ A step-by-step series of examples that tell you how to get a development environ
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/employee-management-system.git
-   ```
-2. Navigate to the project directory:
+   https://github.com/Satyasn01/EmployeeManagement.git
+      ```
+3. Navigate to the project directory:
    ```bash
    cd employee-management-system
    ```
-3. Restore dependencies:
+4. Restore dependencies:
    ```bash
    nuget restore
    ```
-4. Update the `Web.config` file with your Oracle database connection details.
+5. Update the `Web.config` file with your Oracle database connection details.
 
-5. Run the application:
+6. Run the application:
    ```bash
    dotnet run
    ```
