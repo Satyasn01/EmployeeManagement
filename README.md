@@ -67,7 +67,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## Authors
 
-- **Your Name** - *Initial work* - [YourUsername](https://github.com/YourUsername)
+- **Your Name** - *Initial work* - [Satyasn01](https://github.com/Satyasn01))
 
 ## License
 
